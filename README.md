@@ -12,6 +12,7 @@
 - [The Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Secudoku](https://secudoku.statemind.io/)
 - [Tincho's Learning resources](https://www.notonlyowner.com/learning-resources/)
+- [TheRedGuild.org](https://theredguild.org/)
 
 ## 🎤 Podcasts, Interviews
 
@@ -23,6 +24,7 @@
 - [DeFi Security Summit's Youtube Channel](https://www.youtube.com/@defisecuritysummit2088)
 - [Blockchain Security Series' Youtube Channel](https://www.youtube.com/@blockchainsecurityseries)
 - [Tincho's Youtube Channel](https://www.youtube.com/@tincho.on.ethereum)
+- [The Red Guild's Youtube Channel](https://www.youtube.com/@watchtheredguild)
 
 - [Tincho - (1/2) Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://youtu.be/sqjHodAj5Xc?list=PLTqiwJDd_R8yHOvteko_DmUxUTMHnlfci)
 - [Tincho - (2/2) Introducción a Hacking y Seguridad de Smart Contracts en Ethereum](https://youtu.be/CEzERbkVAhk?list=PLTqiwJDd_R8yHOvteko_DmUxUTMHnlfci)
