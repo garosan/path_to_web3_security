@@ -183,3 +183,27 @@ There's a great GitHub repo by `ZhangZhuoSJTU` that illustrates examples of bugs
 
 An important takeaway for you is that around 80% of actual bugs and competitive audit bugs are not auto-detectable by machines, including our present-day AI tools.
 // TODO: Is this still the case in August 2025??
+
+## What If Your Security Audit Fails?
+
+From Tincho:
+
+Auditors should provide value, regardless of whether or not they spot critical issues.
+
+In other words, an auditor's value doesn't solely rest upon their ability to find vulnerabilities. Instead, their advice should strengthen the overall security protocol and offer pragmatic solutions for future scenarios.
+
+Attributing the failure of a system to an auditor's incompetency is simplistic and misguided. If a vulnerability was missed, it means it slipped past numerous stages of checks and balances, of which an audit is just one.
+
+### The Auditor’s Role in the Wake of a Breach
+
+So, what should an auditor do if a protocol they've reviewed ends up compromised? The answer is that a responsible security partner should not abandon their client in the midst of a crisis.
+
+As an auditor, you may be able to help mitigate the damage, restrict the scope of the attack, and possibly identify the hackers. A quality auditor must be there, lending their expertise, during the inevitable chaos that ensues after a breach.
+
+## Top 5 Attack Vectors
+
+- Private Keys - Stolen Private Keys are responsible for the largest loss of funds so far in 2023.
+- Reward Manipulation – This vector involves the manipulation of decentralized incentive systems that could disrupt the balance and fairness within a network.
+- Price Oracle Manipulation – This threat arises when a price oracle in centralized, or if a single oracle is relied upon, particularly with respect to price data.
+- Insufficient Access Controls – onlyOwner modifiers, multi-sig wallets - just a couple things that could have prevented $17,000,000 in stolen funds this year.
+- Re-entrancy (and Read-Only Re-entrancy) - by not adhering to proper Checks, Effects, Interactions patterns - protocols are still being rekt to the tune of $20,500,000 combined in 2023.
