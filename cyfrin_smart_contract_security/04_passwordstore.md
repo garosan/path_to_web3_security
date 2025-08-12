@@ -68,3 +68,26 @@ forge build
 Then:
 
 `cloc ./src`
+
+## The 'Tincho'
+
+His audit process:
+
+- Download the code
+- Read the documentation
+- Use cloc and then export the output to a CSV, google sheet, etc.
+- Use Solidity Metrics too, good extension
+
+## Recon: Context
+
+So let's go back to our PasswordStore audit and get to work.
+
+We start by reading the README, we read the app's purpose:
+
+`A smart contract application for storing a password. Users should be able to store a password and then retrieve it later. Others should not be able to access the password.`
+
+From here, we can start doing some questions:
+
+- How does the retrieving later works? Is there a way we can break that?
+- How might others access the password?
+- Is there a way users might be blocked from storing a password?
